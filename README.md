@@ -1,39 +1,43 @@
-# 🔍 Smart Port Scanner (Elite Edition)
+# 🔍 Smart Port Scanner UI (Elite Edition)
 
-An advanced GUI-based multi-threaded port scanner built using Python, designed to detect open ports and identify running services using banner grabbing techniques.
+An advanced GUI-based multi-threaded port scanner built using Python for detecting open ports and identifying running services.
 
 ---
 
 ## 🚀 Features
 
-- ⚡ Fast multi-threaded scanning
-- 🧠 Service detection (banner grabbing)
-- 🖥️ GUI-based interface (Tkinter)
-- 📊 Real-time scan results
-- 📈 Progress bar tracking
-- 🛑 Start/Stop scan control
-- 🕵️ Stealth scan simulation (delays)
-- 📁 Export results (JSON)
+- ⚡ Fast multi-threaded scanning  
+- 🧠 Service detection (banner grabbing)  
+- 🖥️ Dark-themed GUI  
+- 📊 Real-time scan results  
+- 📈 Progress bar  
+- 🛑 Start/Stop control  
+- 📁 JSON report export  
 
 ---
 
-## 🖥️ Tech Stack
+## 📸 Screenshot
 
-- Python
-- Socket Programming
-- Threading
-- Tkinter (GUI)
-
----
-
-## 📸 Screenshots
-
-(Add your screenshot here after running project)
+(Add screenshot here)
 
 ---
 
 ## ▶️ How to Run
 
-```bash
-pip install -r requirements.txt
-python scanner.py
+pip install -r requirements.txt  
+python scanner.py  
+
+---
+
+## 🧠 Concepts Used
+
+- Socket Programming  
+- Networking (TCP/IP)  
+- Multi-threading  
+- GUI Development  
+
+---
+
+## ⚠️ Disclaimer
+
+Use only on authorized systems.

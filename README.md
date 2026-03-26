@@ -18,7 +18,7 @@ An advanced GUI-based multi-threaded port scanner built using Python for detecti
 
 ## 📸 Screenshot
 
-(Add screenshot here)
+(![Scanner UI](screenshot.png))
 
 ---
 
